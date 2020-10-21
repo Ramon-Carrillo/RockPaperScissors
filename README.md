@@ -10,11 +10,10 @@
 - .sub and .sup,
 - Template literals,
 - .classList.add for CSS classes,
-- Caching the DOM
 
 # Extra
 
-- Adjusted program to make it more mobile friendly.
+- Added @media for mobile use.
 
 ![screenshot](./static/images/RockPaperScissors.png)
 
