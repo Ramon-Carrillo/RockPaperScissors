@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-#Learned How Use:
+#Learned How To Use:
 
 - Math.random,
 - Math.floor,
